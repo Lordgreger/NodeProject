@@ -1,7 +1,7 @@
 {
-  "name": "Heroku Test",
+  "name": "gregs-node-server",
   "version": "1.0.0",
-  "description": "node app ",
+  "description": "node app",
   "main": "app.js",
   "scripts": {
   "start": "node app.js"
